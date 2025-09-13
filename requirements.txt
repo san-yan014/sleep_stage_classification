@@ -1,0 +1,12 @@
+# created a virtual environment for my code to only run through the packages that are required for this project thus 
+# enhancing performace and preventing overlapping packages versions. overall this is just good practice that you do this
+# for every project that you do.  
+
+# create venv using this command "python -m venv -name"
+# activate using "name_venv\Scripts\activate" 
+
+pandas
+numpy 
+mne
+notebook
+ipykernel
