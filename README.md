@@ -120,8 +120,7 @@ The classification results revealed important sleep physiology patterns:
 
 ## Future Work
 - Optimize CNN architecture and hyperparameters
-- Explore LSTM/GRU models for capturing longer temporal dependencies
-- Implement ensemble methods combining XGBoost and deep learning
+- Implement hybrid methods combining XGBoost and deep learning models
 - Investigate attention mechanisms for identifying critical time periods
 - Extend to sleep disorder detection applications
 
